@@ -1,0 +1,39 @@
+body{
+    background-color: #afdde5;
+    font-family: Georgia, serif;
+    color: #003135;
+    margin: 0 15px;
+}
+
+p{
+    color: #964734;
+    font-weight: bold;
+    letter-spacing: 2px;
+}
+
+label{
+    margin-top: 12px;
+    margin-bottom: 4px;
+    font-weight: bold;
+}
+
+input{
+    background-color: #d8eeef;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #024950;
+    border-radius: 6px;
+}
+
+input::placeholder{
+    color: #0fa4af;
+}
+
+button{
+    margin-top: 10px;
+    background-color: #003135;
+    padding: 10px;
+    border: 1px solid #afdde5;
+    border-radius: 10px;
+    color: #0fa4af;
+}
